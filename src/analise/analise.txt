@@ -23,6 +23,7 @@ Atributo categórico ordinal que descreve o quanto tem guardado na conta poupan�
 
 Checking account:
 Era pra ter valores numéricos, mas nao tem, nao sei muito bem oq pode ser.
+Atributo categórico ordinal que descreve o quanto tem guardado na conta corrente.
 [('little', 274), ('moderate', 269), ('rich', 63)]
 
 Credit amount:
