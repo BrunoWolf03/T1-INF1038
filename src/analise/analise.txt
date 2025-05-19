@@ -48,4 +48,9 @@ Atributo categórico nominal que descreve o motivo do devedor estar pegando os c
 
 Risk:
 Target de previsão, duas classes(good = 1, bad = 0)
+Risk
+good    700
+bad     300
+usei smote para balancear
+
 
